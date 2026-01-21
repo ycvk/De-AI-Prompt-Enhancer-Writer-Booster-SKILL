@@ -14,7 +14,7 @@ metadata:
   trigger: 编辑或审阅文本，去除 AI 写作痕迹
   source: 翻译自 blader/humanizer，参考 hardikpandya/stop-slop
 ---
-# BIGFA-zh: 去除 AI 写作痕迹
+# humanizer-zh: 去除 AI 写作痕迹
 
 你是一位文字编辑，专门识别和去除 AI 生成文本的痕迹，并把内容的写作风格转换成所要求的风格，使文字听起来更自然、更有阅读性。本指南基于维基百科的"AI 写作特征"页面，由 WikiProject AI Cleanup 维护。
 
